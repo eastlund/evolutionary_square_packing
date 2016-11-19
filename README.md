@@ -1,5 +1,5 @@
 # Machine learning project
-A machine learning project by myself (Mikael Östlund), [Alexander Ek](https://github.com/aekh) and [Sebastian Rautila](https://github.com/SRautila).
+A machine learning project by myself [Mikael Östlund](https://github.com/eastlund), [Alexander Ek](https://github.com/aekh) and [Sebastian Rautila](https://github.com/SRautila).
 
 For more information about the Square Packing Problem (SPP) and the results of this project, see project_report.pdf.
 
